@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "my-react-ui",
+  "name": "my-react-ui-rhcns1",
   "author": "ndhungw",
   "module": "dist/my-react-ui.esm.js",
   "size-limit": [
